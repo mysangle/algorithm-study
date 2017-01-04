@@ -12,3 +12,8 @@
   * https://leetcode.com/problems/minimum-path-sum/
   * 아는 문제라 쉽게 풀음
 
+4. Symmetric Tree
+  * https://leetcode.com/problems/symmetric-tree/
+  * iterative로 2시간 조금 안걸림
+  * 성능이 좋지 않은 방법으로 풀음
+
