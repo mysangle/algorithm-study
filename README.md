@@ -33,3 +33,7 @@
   * https://leetcode.com/problems/intersection-of-two-linked-lists/
   * 2 ~3 시간 걸림
 
+9. Maximum Gap
+  * https://leetcode.com/problems/maximum-gap/
+  * linear time으로 풀지 못함
+
