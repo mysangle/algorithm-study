@@ -1,4 +1,5 @@
 # algorithm-study
+문제 풀이에 집중한다. 코드의 질은 생각하지 않는다.
 
 1. Longest Valid Parentheses
   * https://leetcode.com/problems/longest-valid-parentheses/
