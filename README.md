@@ -46,3 +46,7 @@
   * https://leetcode.com/problems/number-of-1-bits/
   * 1시간 정도 걸림
 
+12. Reverse Linked List
+  * https://leetcode.com/problems/reverse-linked-list/
+  * 간단하게 풀음
+
