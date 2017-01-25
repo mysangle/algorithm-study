@@ -38,3 +38,7 @@
   * https://leetcode.com/problems/maximum-gap/
   * linear time으로 풀지 못함
 
+10. Rotate Array
+  * https://leetcode.com/problems/rotate-array/
+  * 간단하게 풀음
+
