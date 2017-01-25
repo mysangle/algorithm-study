@@ -42,3 +42,7 @@
   * https://leetcode.com/problems/rotate-array/
   * 간단하게 풀음
 
+11. Number of 1 Bits
+  * https://leetcode.com/problems/number-of-1-bits/
+  * 1시간 정도 걸림
+
