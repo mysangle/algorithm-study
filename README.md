@@ -58,4 +58,7 @@
   * https://leetcode.com/problems/maximal-square/
   * Brute Force로 2시간정도 걸림, dynamic programming으로 풀지 못함
 
+15. Invert Binary Tree(Easy)
+  * https://leetcode.com/problems/invert-binary-tree/
+  * recursive/iterative 둘 다로 쉽게 풀음
 
