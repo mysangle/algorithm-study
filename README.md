@@ -54,3 +54,7 @@
   * https://leetcode.com/problems/contains-duplicate/
   * O(nlogn)은 쉽게 생각했으나 O(n)은 생각하지 못함
 
+14. Maximal Square/(Medium)
+  * https://leetcode.com/problems/maximal-square/
+  * 2시간정도 걸림, slow
+
