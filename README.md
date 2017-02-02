@@ -50,3 +50,7 @@
   * https://leetcode.com/problems/reverse-linked-list/
   * 간단하게 풀음
 
+13. Contains Duplicate(Easy)
+  * https://leetcode.com/problems/contains-duplicate/
+  * O(nlogn)은 쉽게 생각했으나 O(n)은 생각하지 못함
+
