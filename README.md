@@ -56,5 +56,6 @@
 
 14. Maximal Square/(Medium)
   * https://leetcode.com/problems/maximal-square/
-  * 2시간정도 걸림, slow
+  * Brute Force로 2시간정도 걸림, dynamic programming으로 풀지 못함
+
 
