@@ -69,3 +69,8 @@
 17. First Bad Version(Easy)
   * https://leetcode.com/problems/first-bad-version/?tab=Description
   * 간단하게 풀기는 했으나 코드가 지저분함
+
+18. Move Zeroes(Easy)
+  * https://leetcode.com/problems/move-zeroes/?tab=Description
+  * 간단하게 풀기는 했으나 효율이 나쁠듯
+
