@@ -78,3 +78,7 @@
   * https://leetcode.com/problems/range-sum-query-immutable/#/description
   * 간단하게 풀음
 
+20. Range Sum Query 2d - Immutable(Medium)
+  * https://leetcode.com/problems/range-sum-query-2d-immutable/#/description
+  * 19의 연장선상으로 간단하게 풀음
+
