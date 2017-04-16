@@ -74,3 +74,7 @@
   * https://leetcode.com/problems/move-zeroes/?tab=Description
   * 간단하게 풀기는 했으나 효율이 나쁠듯
 
+19. Range Sum Query - Immutable(Easy)
+  * https://leetcode.com/problems/range-sum-query-immutable/#/description
+  * 간단하게 풀음
+
