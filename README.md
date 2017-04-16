@@ -81,4 +81,7 @@
 20. Range Sum Query 2d - Immutable(Medium)
   * https://leetcode.com/problems/range-sum-query-2d-immutable/#/description
   * 19의 연장선상으로 간단하게 풀음
+21. Range Sum Query - Mutable(Medium)
+  * https://leetcode.com/problems/range-sum-query-mutable/#/description
+  * 간단하게 풀기는 했으나 느림
 
