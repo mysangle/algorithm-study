@@ -91,3 +91,6 @@
   * 간단하게 풀기는 했으나 loop로 품
   * loop나 recursion으로 푸는 방법 생각하지 못함
 
+23. Odd Even Linked List(Medium)
+  * https://leetcode.com/problems/odd-even-linked-list/#/description<Paste>
+  * 간단하게 풀음
