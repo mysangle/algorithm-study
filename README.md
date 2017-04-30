@@ -94,3 +94,8 @@
 23. Odd Even Linked List(Medium)
   * https://leetcode.com/problems/odd-even-linked-list/#/description<Paste>
   * 간단하게 풀음
+
+24. Guess Number Higher or Lower(Easy)
+  * https://leetcode.com/problems/guess-number-higher-or-lower/#/description
+  * 간단하게 풀음
+
