@@ -99,3 +99,8 @@
   * https://leetcode.com/problems/guess-number-higher-or-lower/#/description
   * 간단하게 풀음
 
+25. Wiggle Subsequence
+  * https://leetcode.com/problems/wiggle-subsequence/#/description
+  * 처음에 푼 방식은 'Time Limit Exceeded'가 나왔음
+  * 'Time Limit Exceeded'를 해결하려고 하려고 고민중(2시간정도)에 간단히 풀 수 있는 방법이 생각남 
+
