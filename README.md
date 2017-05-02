@@ -104,3 +104,9 @@
   * 처음에 푼 방식은 'Time Limit Exceeded'가 나왔음
   * 'Time Limit Exceeded'를 해결하려고 하려고 고민중(2시간정도)에 간단히 풀 수 있는 방법이 생각남 
 
+26. Next Greater Element II(Medium)
+  * https://leetcode.com/problems/next-greater-element-ii/#/description
+  * 1시간 정도 걸림
+  * O(n^2)보다는 빠르나 O(n)보다는 느린듯
+
+
