@@ -109,4 +109,7 @@
   * 1시간 정도 걸림
   * O(n^2)보다는 빠르나 O(n)보다는 느린듯
 
+27. Perfect Number(Easy)
+  * https://leetcode.com/problems/perfect-number/#/description
+  * 풀기는 했으나 매우 느린 방법으로 풀음
 
