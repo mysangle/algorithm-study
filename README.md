@@ -1,5 +1,6 @@
 # algorithm-study
 문제 풀이에 집중한다. 코드의 질은 생각하지 않는다.
+leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대로 푼다. 여기에 올라와 있지 않는 문제는 풀지 못한 것이다.
 
 1. Longest Valid Parentheses(Hard)
   * https://leetcode.com/problems/longest-valid-parentheses/
