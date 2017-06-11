@@ -69,6 +69,7 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
 
 17. First Bad Version(Easy)
   * https://leetcode.com/problems/first-bad-version/?tab=Description
+
   * 간단하게 풀기는 했으나 코드가 지저분함
 
 18. Move Zeroes(Easy)
@@ -113,4 +114,8 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
 27. Perfect Number(Easy)
   * https://leetcode.com/problems/perfect-number/#/description
   * 풀기는 했으나 매우 느린 방법으로 풀음
+
+28. Beautiful Arrangement(Medium)
+  * https://leetcode.com/problems/beautiful-arrangement/#/description
+  * 1시간 정도 걸림
 
