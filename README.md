@@ -119,3 +119,7 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
   * https://leetcode.com/problems/beautiful-arrangement/#/description
   * 1시간 정도 걸림
 
+29. Encode and Decode TinyURL(Medium)
+  * https://leetcode.com/problems/encode-and-decode-tinyurl/#/description
+  * 10~15분정도 고민후 해결
+
