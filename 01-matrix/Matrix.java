@@ -37,14 +37,8 @@ public class Matrix {
         // backward
         for (int i = matrix.length-1; i >= 0; i--) {
             for (int j = matrix[i].length-1; j >= 0; j--) {
-                if (j-1 >= 0) {
-                    updated[i][j] = min(updated[i][j-1]+1, updated[i][j]);
-                }
                 if (j+1 < matrix[i].length) {
                     updated[i][j] = min(updated[i][j+1]+1, updated[i][j]);
-                }
-                if (i-1 >= 0) {
-                    updated[i][j] = min(updated[i-1][j]+1, updated[i][j]);
                 }
                 if (i+1 < matrix.length) {
                     updated[i][j] = min(updated[i+1][j]+1, updated[i][j]);
