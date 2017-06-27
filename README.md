@@ -123,3 +123,7 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
   * https://leetcode.com/problems/encode-and-decode-tinyurl/#/description
   * 10~15분정도 고민후 해결
 
+30. 01 Matrix(Medium)
+  * https://leetcode.com/problems/01-matrix/#/description
+  * 3시간정도 걸림
+
