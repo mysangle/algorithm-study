@@ -33,13 +33,5 @@ public class SubArraySum {
     }
     return count;
   }
-
-  public static void main(String[] args) {
-    SubArraySum sas = new SubArraySum();
-    int[] nums = {-1,-1,1,1};
-    int k = 0;
-    System.out.println(sas.subarraySum(nums, k));
-    System.out.println(sas.subarraySum2(nums, k));
-  }
 }
 
