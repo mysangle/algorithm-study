@@ -132,3 +132,7 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
   * https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description
   * 간단하게 풀음
 
+32. Subarray Sum Equals K(Medium)
+  * https://leetcode.com/problems/subarray-sum-equals-k/#/description
+  * 풀기는 했으나 매우 느린 방법으로 풀음
+
