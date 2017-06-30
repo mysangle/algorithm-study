@@ -128,7 +128,7 @@ leetcode에서 editorial solution이 있는 문제를 앞에서부터 순서대�
   * https://leetcode.com/problems/01-matrix/#/description
   * 3시간정도 걸림
 
-31. Reverse Words in a String III
+31. Reverse Words in a String III(Easy)
   * https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description
   * 간단하게 풀음
 
